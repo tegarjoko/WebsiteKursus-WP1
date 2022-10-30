@@ -47,6 +47,10 @@ body {
   background: #55acee;
   color: white;
 }
+.fa-whatsapp{
+    background: #25D366;
+    color: white;
+}
 
 .red_line {
   display: block;
